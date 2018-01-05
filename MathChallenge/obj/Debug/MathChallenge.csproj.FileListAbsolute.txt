@@ -1,1 +1,6 @@
 C:\Users\itegrootenhuis\Documents\Grand Circus\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\itegrootenhuis\Documents\Grand Circus\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csprojResolveAssemblyReference.cache
+C:\Users\itegrootenhuis\Documents\Grand Circus\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\itegrootenhuis\Documents\Grand Circus\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\itegrootenhuis\Documents\Grand Circus\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\itegrootenhuis\Documents\Grand Circus\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
