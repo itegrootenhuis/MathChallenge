@@ -11,12 +11,9 @@ namespace MathChallenge
 		public static string num1;
 		public static string num2;
 		
-		
-		
 		public static void Main(string[] args)
 		{
 			GetNumbers();
-			
 		}
 
 		private static void QuitConsoleApp()
