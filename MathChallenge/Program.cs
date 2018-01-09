@@ -21,9 +21,7 @@ namespace MathChallenge
 
 		private static void QuitConsoleApp()
 		{
-			Console.WriteLine();
-			Console.WriteLine();
-			Console.WriteLine("Press R to repeat or any other key to exit the app.");
+			Console.WriteLine("\n\nPress R to repeat or any other key to exit the app.");
 			ConsoleKeyInfo quitKey = Console.ReadKey();
 
 			if (quitKey.Key.ToString().ToLower() == "r")
@@ -103,8 +101,7 @@ namespace MathChallenge
 					answer += string.Format(" != {0}+{1}", num1List[i], num2List[i]);
 			}
 
-			Console.WriteLine();
-			Console.WriteLine(answer);
+			Console.WriteLine(string.Format("\n{0}", answer));
 			Console.WriteLine(bit);
 			QuitConsoleApp();
 		}
@@ -120,8 +117,7 @@ namespace MathChallenge
 		private static void NumbersDontMatchError()
 		{
 			Console.Clear();
-			Console.WriteLine("*The numbers you have entered do not have the same number of digits.* ");
-			Console.WriteLine();
+			Console.WriteLine("*The numbers you have entered do not have the same number of digits.* \n");
 			GetNumbers();
 		}
 	}
